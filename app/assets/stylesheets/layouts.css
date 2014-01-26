@@ -1,0 +1,13 @@
+body {
+ 	background-color: #e0fffa;
+ }
+
+#wave {
+	max-width: 100%;
+	width: 100%;
+	margin: auto;
+}
+
+#home-content {
+	text-align: center
+}

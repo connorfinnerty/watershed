@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <body id="home-body">
+  	
+  <div class="row">
+  	<div class="large-12 columns" id="home-content">
+  
+  	<h1>Watershed App Home</h1>
+
+			<?xml version="1.0"?>
+			<svg width="302" height="400" xmlns="http://www.w3.org/2000/svg">
+				 <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+				 <g>
+					  <title>background</title>
+					  <rect fill="none" id="canvas_background" height="402" width="304" y="-1" x="-1"/>
+					  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+					   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+					  </g>
+					 </g>
+					 <g>
+					  <title>Layer 1</title>
+					  <g id="svg_4">
+					   <ellipse ry="110.548091" rx="121.000012" id="svg_1" cy="248.333862" cx="150.99999" stroke-width="1.5" fill="#7AD6CA"/>
+					   <path id="svg_3" d="m267.721436,214.87207c1.110046,3.742294 -115.75206,-182.00486 -115.75206,-182.00486c0,0 -104.105907,158.027901 -104.105907,158.027901" stroke-width="1.5" fill="#7AD6CA"/>
+					  </g>
+					  <rect id="svg_5" height="28.999999" width="170.000005" y="199.000003" x="66.49999" stroke-width="1.5" fill="#e8ffff"/>
+					  <rect id="svg_6" height="28.999999" width="170.000005" y="243.000003" x="64.99999" stroke-width="1.5" fill="#e8ffff"/>
+					  <text xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="17" id="svg_8" y="221" x="76.5" stroke-width="0" fill="#3d3939">Username</text>
+					  <rect id="svg_9" height="28.999999" width="100.000007" y="287.000003" x="99.999995" stroke-width="1.5" fill="#47a3ff"/>
+					  <text xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="17" id="svg_10" y="263" x="77" stroke-width="0" fill="#3d3939">Email</text>
+					  <text style="cursor: move;" xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="17" id="svg_11" y="307" x="131" stroke-width="0" fill="#ffffff">Login</text>
+					  <text xml:space="preserve" text-anchor="left" font-family="Helvetica, Arial, sans-serif" font-size="13" id="svg_12" y="335" x="127" stroke-width="0" fill="#ffffff">Register</text>
+				 </g>
+			</svg>
+		</div>
+	</div>
+
+	<div id="wave">
+		<?xml version="1.0"?>
+		<svg width="1297" height="96" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;">
+		 <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+		 <g>
+		  <title>background</title>
+		  <rect fill="none" id="canvas_background" height="98" width="1299" y="-1" x="-1"/>
+		  <g style="vector-effect: non-scaling-stroke;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+		   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+		  </g>
+		 </g>
+		 <g>
+		  <title>Layer 1</title>
+		  <path transform="translate(342.777)" id="svg_18" d="m-340.533081,32.516632c471.000443,-71.086121 941.995972,71.092224 1413.003784,0l0,127.962494c-471.007813,71.087463 -942.003342,-71.085785 -1413.003784,0l0,-127.962494z" stroke-opacity="null" stroke-width="1.5" stroke="null" fill="#5faaa0"/>
+		 </g>
+		</svg>
+
+	</div>
+
+  </body>
+</html>

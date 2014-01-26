@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  river_stream_name: MyString
+  watershed_name: MyString
+  name_of_investigator: MyString
+  town: MyString
+  date: 2014-01-24
+  time_of_sampling: 2014-01-24 21:39:30
+  latitude: MyString
+  longitude: MyString
+
+two:
+  river_stream_name: MyString
+  watershed_name: MyString
+  name_of_investigator: MyString
+  town: MyString
+  date: 2014-01-24
+  time_of_sampling: 2014-01-24 21:39:30
+  latitude: MyString
+  longitude: MyString
