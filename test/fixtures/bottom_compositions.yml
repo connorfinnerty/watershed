@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bedrock: MyString
+  boulders: MyString
+  cobble: MyString
+  gravel: MyString
+  sand_silt_clay: MyString
+  organic_matter: MyString
+  embededdness: MyString
+
+two:
+  bedrock: MyString
+  boulders: MyString
+  cobble: MyString
+  gravel: MyString
+  sand_silt_clay: MyString
+  organic_matter: MyString
+  embededdness: MyString

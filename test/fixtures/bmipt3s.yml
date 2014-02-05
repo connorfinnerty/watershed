@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  midges: MyString
+  black_fly_larvae: MyString
+  planaria: MyString
+  leech: 
+  with_weighting_factors: MyString
+
+two:
+  midges: MyString
+  black_fly_larvae: MyString
+  planaria: MyString
+  leech: 
+  with_weighting_factors: MyString

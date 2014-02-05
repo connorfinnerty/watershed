@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  green: false
+  tea: false
+  milky: false
+  muddy: false
+  cloudy: false
+  foamy: false
+  clear: false
+  reddish: false
+  oily_sheen: false
+  other: MyString
+
+two:
+  green: false
+  tea: false
+  milky: false
+  muddy: false
+  cloudy: false
+  foamy: false
+  clear: false
+  reddish: false
+  oily_sheen: false
+  other: MyString

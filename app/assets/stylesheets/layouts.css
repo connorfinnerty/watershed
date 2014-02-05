@@ -1,6 +1,21 @@
 body {
- 	background-color: #e0fffa;
+ 	background-color: #3487E8;
  }
+
+ h1 {
+ 	color: #F3FFFF;
+ }
+
+label {
+ 	color: #F3FFFF;
+ }
+
+/* legend seems to be defined somewhere else, by default has white background */
+legend {
+	background-color: #3487E8;
+	color: #F3FFFF;
+}
+
 
 #wave {
 	max-width: 100%;

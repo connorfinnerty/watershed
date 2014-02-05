@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  temperature: MyString
+  ph: MyString
+  turbidity: MyString
+  orthophosphate: MyString
+  dissolved_oxygen: MyString
+
+two:
+  temperature: MyString
+  ph: MyString
+  turbidity: MyString
+  orthophosphate: MyString
+  dissolved_oxygen: MyString

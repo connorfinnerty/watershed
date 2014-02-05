@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stonefly_nymph: MyString
+  mayfly_nymph: MyString
+  caddis_fly_larvae: MyString
+  dobsonfly_larvae: MyString
+  riffle_beetle: MyString
+  water_penny: MyString
+  right_handed_snail: MyString
+  number_of_taxa: MyString
+  with_weighting_factors: MyString
+
+two:
+  stonefly_nymph: MyString
+  mayfly_nymph: MyString
+  caddis_fly_larvae: MyString
+  dobsonfly_larvae: MyString
+  riffle_beetle: MyString
+  water_penny: MyString
+  right_handed_snail: MyString
+  number_of_taxa: MyString
+  with_weighting_factors: MyString

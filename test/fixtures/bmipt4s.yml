@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  left_handed_snail: MyString
+  aquatic_worms: MyString
+  blood_midge: MyString
+  rat_tailed_maggot: MyString
+  number_of_taxa: MyString
+  with_weighting_factors: MyString
+
+two:
+  left_handed_snail: MyString
+  aquatic_worms: MyString
+  blood_midge: MyString
+  rat_tailed_maggot: MyString
+  number_of_taxa: MyString
+  with_weighting_factors: MyString

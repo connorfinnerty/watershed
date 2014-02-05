@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  none: false
+  rotten_eggs: false
+  sewage: false
+  fish: false
+  oil: false
+  chlorine: false
+  other: MyString
+
+two:
+  none: false
+  rotten_eggs: false
+  sewage: false
+  fish: false
+  oil: false
+  chlorine: false
+  other: MyString

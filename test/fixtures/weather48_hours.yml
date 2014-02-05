@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  clear_sunny: false
+  overcast: false
+  showers: false
+  steady_rain: false
+  heavy_rain: false
+
+two:
+  clear_sunny: false
+  overcast: false
+  showers: false
+  steady_rain: false
+  heavy_rain: false

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  native_mussels: MyString
+  zebra_mussels: MyString
+  rusty_crayfish: MyString
+  aquatic_plants: MyString
+  algae_cover: MyString
+  diversity_index: MyString
+
+two:
+  native_mussels: MyString
+  zebra_mussels: MyString
+  rusty_crayfish: MyString
+  aquatic_plants: MyString
+  algae_cover: MyString
+  diversity_index: MyString

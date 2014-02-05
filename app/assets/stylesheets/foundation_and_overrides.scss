@@ -322,7 +322,7 @@ $default-float: left;
 
 // We use these to style the legends when you use them
 
-// $legend-bg: #fff;
+ $legend-bg: none;
 // $legend-font-weight: bold;
 // $legend-padding: em-calc(0 3);
 
@@ -1255,7 +1255,7 @@ $default-float: left;
 
 // Background color for the top bar
 
-// $topbar-bg-color: #111;
+ $topbar-bg-color: #3D3C3E !default;
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin

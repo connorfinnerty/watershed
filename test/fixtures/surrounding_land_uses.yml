@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dairy_farm: false
+  park_area: false
+  golf_course: false
+  residential: false
+  forest: false
+  factory_mining: false
+  other: MyString
+
+two:
+  dairy_farm: false
+  park_area: false
+  golf_course: false
+  residential: false
+  forest: false
+  factory_mining: false
+  other: MyString

@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  damselfly_nymph: MyString
+  dragonfly_nymph: MyString
+  sowbug: MyString
+  scud: MyString
+  crane_fly_larvae: MyString
+  clams_mussels: MyString
+  crayfish: MyString
+  number_of_taxa: MyString
+  with_weighting_factors: MyString
+
+two:
+  damselfly_nymph: MyString
+  dragonfly_nymph: MyString
+  sowbug: MyString
+  scud: MyString
+  crane_fly_larvae: MyString
+  clams_mussels: MyString
+  crayfish: MyString
+  number_of_taxa: MyString
+  with_weighting_factors: MyString
