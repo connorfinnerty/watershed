@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+  <body>
+  	<div class="row">
+  	<h1>Stream Monitoring Data Sheet</h1>
+  	</div>
+<form> 
+
+	<div class="row"> 
+	  <div class="large-12 columns"> 
+	    <fieldset>
+          <legend>Background Information</legend>
+			
+			<div class="row"> 
+				<div class="large-4 columns"> 
+					<label>River/Stream Name</label> 
+					<input type="text" placeholder="large-4.columns" /> 
+				</div> 
+				<div class="large-4 columns"> 
+					<label>Watershed Name</label> 
+					<input type="text" placeholder="large-4.columns" /> 
+				</div>
+				<div class="large-4 columns"> 
+					<label>Name(s) of Investigators</label> 
+					<input type="text" placeholder="large-4.columns" /> 
+				</div> 
+				<div class="large-4 columns"> 
+					<label>Town</label> 
+					<input type="text" placeholder="large-4.columns" /> 
+				</div>
+				<div class="large-4 columns"> 
+					<label>Date</label> 
+					<input type="text" placeholder="large-4.columns" /> 
+				</div> 
+				<div class="large-4 columns"> 
+					<label>Time of Sampling</label> 
+					<input type="text" placeholder="large-4.columns" /> 
+				</div> 				
+				<div class="large-4 columns"> 
+					<label>(GPS Coordinates) Latitude</label> 
+					<input type="text" placeholder="large-4.columns" /> 
+				</div> 
+				<div class="large-4 columns"> 
+					<label>Longitude</label> 
+					<input type="text" placeholder="large-4.columns" /> 
+				</div>
+				<div class="large-6 columns">
+				<label>Weather: Today</label> 
+				<select> 
+					<option value="husker">Husker</option> 
+					<option value="starbuck">Starbuck</option> 
+					<option value="hotdog">Hot Dog</option> 
+					<option value="apollo">Apollo</option> 
+				</select>
+				<label>Weather: Past 48 Hours</label> 
+				<select> 
+					<option value="husker">Husker</option> 
+					<option value="starbuck">Starbuck</option> 
+					<option value="hotdog">Hot Dog</option> 
+					<option value="apollo">Apollo</option> 
+				</select>
+				</div>
+				<div class="large-6 columns">
+					<label>Site Description</label> 
+					<input type="text" placeholder="large-12.columns" /> 
+				</div>
+			</div>
+		</fieldset>
+      </div> 
+	</div>
+
+	<div class="row"> 
+	  <div class="large-12 columns"> 
+	    <fieldset>
+          <legend>Physical Assessment</legend>
+		  <label>Input Label</label> 
+		  <input type="text" placeholder="large-12.columns" /> 
+		
+	<div class="row"> 
+		<div class="large-4 columns"> 
+			<label>Input Label</label> 
+			<input type="text" placeholder="large-4.columns" /> 
+		</div> 
+		<div class="large-4 columns"> 
+			<label>Input Label</label> 
+			<input type="text" placeholder="large-4.columns" /> 
+		</div> 
+		<div class="large-4 columns"> 
+			<div class="row collapse"> 
+			<label>Input Label</label> 
+			<div class="small-9 columns"> 
+			<input type="text" placeholder="small-9.columns" /> 
+			</div> 
+			<div class="small-3 columns"> 
+			<span class="postfix">.com</span> 
+		</div> 
+			</div> 
+		</div> 
+	</div>
+		<div class="row"> 
+		<div class="large-4 columns"> 
+			<label>Input Label</label> 
+			<input type="text" placeholder="large-4.columns" /> 
+		</div> 
+		<div class="large-4 columns"> 
+			<label>Input Label</label> 
+			<input type="text" placeholder="large-4.columns" /> 
+		</div> 
+		<div class="large-4 columns"> 
+			<div class="row collapse"> 
+			<label>Input Label</label> 
+			<div class="small-9 columns"> 
+			<input type="text" placeholder="small-9.columns" /> 
+			</div> 
+			<div class="small-3 columns"> 
+			<span class="postfix">.com</span> 
+		</div> 
+			</div> 
+		</div> 
+	</div>
+		<div class="row"> 
+		<div class="large-4 columns"> 
+			<label>Input Label</label> 
+			<input type="text" placeholder="large-4.columns" /> 
+		</div> 
+		<div class="large-4 columns"> 
+			<label>Input Label</label> 
+			<input type="text" placeholder="large-4.columns" /> 
+		</div> 
+		<div class="large-4 columns"> 
+			<div class="row collapse"> 
+			<label>Input Label</label> 
+			<div class="small-9 columns"> 
+			<input type="text" placeholder="small-9.columns" /> 
+			</div> 
+			<div class="small-3 columns"> 
+			<span class="postfix">.com</span> 
+		</div> 
+			</div> 
+		</div> 
+	</div>
+
+	/* comment */
+
+		</fieldset>
+      </div> 
+	</div>
+
+	<div class="row"> 
+		<div class="large-4 columns"> 
+			<label>Input Label</label> 
+			<input type="text" placeholder="large-4.columns" /> 
+		</div> 
+		<div class="large-4 columns"> 
+			<label>Input Label</label> 
+			<input type="text" placeholder="large-4.columns" /> 
+		</div> 
+		<div class="large-4 columns"> 
+			<div class="row collapse"> 
+			<label>Input Label</label> 
+			<div class="small-9 columns"> 
+			<input type="text" placeholder="small-9.columns" /> 
+			</div> 
+			<div class="small-3 columns"> 
+			<span class="postfix">.com</span> 
+		</div> 
+			</div> 
+		</div> 
+	</div>
+
+	<div class="row"> 
+	<div class="large-12 columns"> 
+	<label>Select Box</label> 
+	<select> 
+	<option value="husker">Husker</option> 
+	<option value="starbuck">Starbuck</option> 
+	<option value="hotdog">Hot Dog</option> 
+	<option value="apollo">Apollo</option> 
+	</select> </div> </div> 
+
+	<div class="row"> 
+	<div class="large-6 columns"> 
+	<label>Choose Your Favorite</label> 
+	<input type="radio" name="pokemon" value="Red" id="pokemonRed">
+	<label for="pokemonRed">Radio 1</label> 
+	<input type="radio" name="pokemon" value="Blue" id="pokemonBlue">
+	<label for="pokemonBlue">Radio 2</label> 
+	</div> 
+	<div class="large-6 columns"> 
+	<label>Check these out</label> 
+	<input id="checkbox1" type="checkbox">
+	<label for="checkbox1">Checkbox 1</label> 
+	<input id="checkbox2" type="checkbox">
+	<label for="checkbox2">Checkbox 2</label> 
+	</div> 
+	</div>
+
+	<div class="row"> 
+		<div class="large-12 columns"> 
+		<label>Textarea Label</label> 
+		<textarea placeholder="small-12.columns">
+		</textarea> 
+		</div> 
+	</div> 
+
+	  <fieldset>
+	    <legend>Fieldset Legend</legend>
+	  	<div class="row"> 
+			<div class="large-12 columns"> 
+			<label>Input Label</label> 
+			<input type="text" placeholder="large-12.columns" /> 
+			</div> 
+		</div> 
+  </fieldset>
+
+
+  	<div class="row"> 
+    <fieldset>
+	    <legend>Fieldset Legend</legend>
+			<div class="large-12 columns"> 
+			<label>Input Label</label> 
+			<input type="text" placeholder="large-12.columns" /> 
+			</div> 
+		</fieldset>
+	</div> 
+
+</form>
+
+  </body>
+</html>
